@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+# 🌐 Personal Resume Website
 
 A modern, responsive Personal Portfolio Website built using **HTML, CSS, and JavaScript**. This project showcases my skills, projects, and contact information in a professional and user-friendly interface.
 
